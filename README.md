@@ -1,6 +1,6 @@
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=00FF00&size=30&lines=SONIC+MEDIA+STORAGE;FOR+BOT+AchuMwol;MADE+BY+Akshayser;CO-SUPPORT+unni-settan...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=00FF00&size=30&lines=SONIC+MEDIA+STORAGE;FOR+BOT+AchuMwol;MADE+BY+Akshayser;...)](https://git.io/typing-svg)
 
 
  
